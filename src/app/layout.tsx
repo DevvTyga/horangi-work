@@ -2,6 +2,7 @@ import "./globals.css";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://horangi.work/"),
   title: "개발자 타이가",
   description: "K-POP 덕후 개발자 작업물 모음집",
   viewport: "width=device-width, initial-scale=1",
