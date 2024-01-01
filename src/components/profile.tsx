@@ -29,7 +29,7 @@ export default function Profile() {
         </div>
         <div className='flex flex-row font-medium text-xs text-gray-400 justify-center space-x-1'>
           <span className='text-gray-800 font-bold'>Resume </span>
-          <a href='https://career.programmers.co.kr/pr/17shinyo17_8650'>
+          <a href='https://career.programmers.co.kr/resumes/780610'>
             이력서
           </a>
         </div>
